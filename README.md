@@ -1,4 +1,4 @@
-# SExpressionParser
+# SExpressionParser  [![Build Status](https://travis-ci.org/moba1/SExpressionParser.svg?branch=master)](https://travis-ci.org/moba1/SExpressionParser)
 C# S Expression Parser Library
 
 ## Usage
